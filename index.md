@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Itadinanta
+title: Introduction
 ---
-
-#### Itadinanta
 
 Itadinanta is a Sardinian slang word which has no direct translation in any other language. In English it may sound like "what's its name?" and it's generally used as a humorous placeholder for "that bloody thing". It had been a running joke between colleagues back then at *Energit*, when, right at the last legs of the dotcom boom, we thought of building a separate startup "to do stuff". Which stuff exactly we really had no idea, hence the name "Itadinanta". For fun, we put together some spare change to buy a domain name, originally "itadinanta.it" and created an email account for each of us.
 
@@ -13,8 +11,8 @@ In this context, "itadinanta" keeps the original meaning of "whatever" but now e
 
 At the time of writing (August 2015) there are two public projects under this umbrella:
 
-- [rnkr|http://github.com/itadinanta/rnkr] (reads: ranker). A leaderboard service for videogames. If you think that simple sorted lists are a solved problem for the general case, think again.
-- [spring-scala|http://github.com/itadinanta/spring-scala]: a fork of the original [springsource project|http://github.com/spring-project/spring-scala] to extend support to scala 2.11
+- [rnkr](http://github.com/itadinanta/rnkr) (reads: ranker). A leaderboard service for videogames. If you think that simple sorted lists are a solved problem for the general case, think again.
+- [spring-scala](http://github.com/itadinanta/spring-scala): a fork of the original [springsource project](http://github.com/spring-project/spring-scala) to extend support to scala 2.11
 
 Enjoy!
 Nico
