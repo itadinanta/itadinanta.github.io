@@ -7,7 +7,7 @@ Itadinanta is a Sardinian slang word which has no direct translation in any othe
 
 Needless to say the startup never saw the light of day, and unfortunately I almost lost track of those colleagues. Water under bridges and all, however, I became attached to the domain name and to the joke which generated it, and even more than fifteen years and a country relocation later I still own the domain name (now it's "itadinanta.net", welcome globalization!) and still enjoy the name for my own, erm, what's that thing again?
 
-Jokes aside, nowadays "itadinanta" keeps the original meaning and becomes the moniker for an umbrella covering my personal tech ramblings, which may or may not include code which doesn't crash at startup and actually does something beneficially for the community at large. These days, it involves dabbling in Scala, a little bit of Erlang, functional programming, distributed systems, distributed team management and generally any technique which makes writing large and reliable systems easier.
+Jokes aside, nowadays "itadinanta" keeps the original meaning and becomes the moniker for an umbrella covering my personal tech ramblings, which may or may not include code which doesn't crash at startup and actually does something beneficial for the community at large. These days, it involves dabbling in Scala, a little bit of Erlang, functional programming, distributed systems, distributed team management and generally any technique which makes writing large and reliable systems easier.
 
 At the time of writing (August 2015) there are two public projects under this umbrella:
 
