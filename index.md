@@ -15,4 +15,5 @@ At the time of writing (August 2015) there are two public projects under this um
 - [spring-scala](http://github.com/itadinanta/spring-scala): a fork of the original [springsource project](http://github.com/spring-projects/spring-scala) to extend support to scala 2.11
 
 Enjoy!
+
 Nico
