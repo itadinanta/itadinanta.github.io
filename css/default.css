@@ -1,18 +1,49 @@
 body {
-	font-family: Arial, sans-serif;
+	font-family: Tahoma, Verdana, Arial, sans-serif;
 	color: black;
-	background: #F5EACB;
+	background: #E3ECEB;
+	padding: 0pt;
+	margin: 0pt;
+}
+
+#page {
+	padding-left: 7%;
+	padding-right: 7%;
+	background: transparent;
+	border-style: none;
 }
 
 #header {
-	
+	background: #8EB6B2;
+	padding: 1em;
+	margin: 0pt;
+	border-color: #0E655A;
+	border-width: 1px;
+	border-style: none solid none solid;
+}
+
+#content p {
+	text-indent: 2em;
+}
+
+#content ul {
+	margin-left: 2em;
 }
 
 #content {
-	
+	background: #F8F4ED;
+	margin: 0pt;
+	padding: 2em;
+	border-width: 1px;
+	border-color: #A38B5C;
+	border-style: dotted solid none solid;
 }
 
 
 #footer {
-	
+	padding: 1em 1em 1em 1em;
+	border-style: dotted solid dotted solid;
+	border-color: #A38B5C #A38B5C #A38B5C #A38B5C;
+	background: #F5EACB;
+	border-width: 1px 1px 1px 1px;
 }
