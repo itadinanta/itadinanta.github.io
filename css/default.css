@@ -47,7 +47,7 @@ body {
 
 #footer {
 	padding: 1em 1em 1em 1em;
-	border-style: dotted solid dotted solid;
+	border-style: dotted solid solid solid;
 	border-color: #A38B5C #A38B5C #A38B5C #A38B5C;
 	background: #F5EACB;
 	border-width: 1px 1px 1px 1px;
