@@ -6,6 +6,12 @@ body {
 	margin: 0pt;
 }
 
+#shadow {
+	padding: 0pt;
+	margin: 0pt;
+	box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.5);
+}
+
 #page {
 	padding-left: 2%;
 	padding-right: 2%;
