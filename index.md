@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Itadinanta, what?
 ---
 
 Itadinanta is a Sardinian slang word which has no exact counterpart in any other language. In English it may sound like "what's its name?" and it's generally used as a humourous placeholder for "that bloody thing" when one doesn't remember the thing's name. It had been a running joke between colleagues back then at *Energit*, when, right at the last legs of the dotcom boom, we thought of spinning off a separate startup "to do stuff". What kind of stuff exactly we really had no idea, hence the name "Itadinanta". For fun, we put together some spare change to buy a domain name, originally "itadinanta.it" and created an email each.
