@@ -33,6 +33,11 @@ body {
 	text-indent: 2em;
 }
 
+#content p img {
+    float: right;
+    margin: 1em;
+}
+
 #content ul {
 	margin-left: 2em;
 }
