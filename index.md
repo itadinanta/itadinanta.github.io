@@ -19,6 +19,7 @@ And for historical completeness:
 - [eurofattu](http://github.com/itadinanta/eurofattu): 2007? Invoicing webapp, generates printout via LaTeX (php) 
 - [lightcms](http://github.com/itadinanta/lightcms): 2004? Self-contained multi-site static content manager (Java)
 - [onthefly](http://github.com/itadinanta/onthefly): 2003, OpenGL-based swarming A-life tech demo (C++)
+- [worm](http://github.com/itadinanta/worm): 2005?, non photorealistic rendering of dynamically defined objects (C++, shader asm)
 - [emufxtool](http://github.com/itadinanta/emufxtool): 2008? DSP assembler/disassembler targeting the SB Emu10k1 sound chip via ALSA (C++)
 
 Enjoy!
