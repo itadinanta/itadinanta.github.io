@@ -10,16 +10,16 @@ Needless to say the startup never saw the light of day, and unfortunately I almo
 
 At the time of writing (August 2015) there are two public projects under this umbrella:
 
-- [rnkr](http://github.com/itadinanta/rnkr) (reads: ranker). A leaderboard service for videogames. If you think that simple sorted lists are a solved problem for the general case, think again.
-- [spring-scala](http://github.com/itadinanta/spring-scala): a fork of the original [springsource project](http://github.com/spring-projects/spring-scala) to extend support to scala 2.11
+- [rnkr](http://github.com/itadinanta/rnkr) (reads: ranker). A leaderboard service for videogames. If you think that simple sorted lists are a solved problem for the general case, think again. (Scala)
+- [spring-scala](http://github.com/itadinanta/spring-scala): a fork of the original [springsource project](http://github.com/spring-projects/spring-scala) to extend support to scala 2.11 (Scala)
 
 And for historical completeness:
 
-- [tunebait](http://github.com/itadinanta/tunebait): 2012, Android game prototype built on libGdx
-- [eurofattu](http://github.com/itadinanta/eurofattu): 2007? Invoicing webapp, generates printout via LaTeX 
-- [lightcms](http://github.com/itadinanta/lightcms): 2004? Self-contained multi-site static content manager
-- [onthefly](http://github.com/itadinanta/onthefly): 2003, OpenGL-based swarming A-life tech demo 
-- [emufxtool](http://github.com/itadinanta/emufxtool): 2008? DSP assembler/disassembler targeting the SB Emu10k1 sound chip via ALSA
+- [tunebait](http://github.com/itadinanta/tunebait): 2012, Android game prototype built on libGdx (Java)
+- [eurofattu](http://github.com/itadinanta/eurofattu): 2007? Invoicing webapp, generates printout via LaTeX (php) 
+- [lightcms](http://github.com/itadinanta/lightcms): 2004? Self-contained multi-site static content manager (Java)
+- [onthefly](http://github.com/itadinanta/onthefly): 2003, OpenGL-based swarming A-life tech demo (C++)
+- [emufxtool](http://github.com/itadinanta/emufxtool): 2008? DSP assembler/disassembler targeting the SB Emu10k1 sound chip via ALSA (C++)
 
 Enjoy!
 
