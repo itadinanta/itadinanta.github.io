@@ -1,6 +1,5 @@
 ---
 title: About me
-layout: draft
 ---
 
 People around me call me Nico. Also known as Nico Orru, Mr Orru and even Ms Orru, which is wrong but I can understand why.
@@ -17,7 +16,7 @@ I used to work for [Studio Liverpool](https://en.wikipedia.org/wiki/Psygnosis).
 I have been [programming computers for a quarter of a century](/resources/curriculum_2015.pdf) 
 and still learning and enjoying it.
 
-The rest of my household is populated by lovely lady [programmers](http://blog.doppioslash.com) and fluffy kittens.
+The rest of my household is populated by lovely lady [programmers](http://blog.doppioslash.com/about/) and fluffy kittens.
 
 I can be found on:
 

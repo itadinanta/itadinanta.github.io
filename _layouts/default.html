@@ -13,7 +13,14 @@
 			<div id="header">
 				<h1>{{ page.title }}</h1>
 			</div>
-			<div id="content">{{ content }}</div>
+			<div id="content">
+				<div id="pageindex">
+				{% for p in site.data.pages %}<span class="links"><a href="/{{ p.name }}">{{ p.label }}</a></span>{% endfor %}
+				</div>
+				<div id="pagecontent">
+				{{ content }}
+				</div>
+			</div>
 			<div id="footer">
 				&copy; 2015 Nico Orru <span>nigu</span><span>&period;</span><span>orru</span><span>&commat;</span><span>gmail</span><span></span>&period;</span><span>com</span>
 				All content is the author's personal and does do not represent the
