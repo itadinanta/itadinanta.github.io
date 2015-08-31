@@ -7,7 +7,7 @@ My birth name is Nicola Orrù, with nothing in between and a decorated "u".
 
 I am British and Italian.
 
-I live in [Liverpool, England](https://en.wikipedia.org/wiki/Liverpool) but I was born and bred in sunny Sardinia.
+I live in [Liverpool, England](https://en.wikipedia.org/wiki/Liverpool) but I was born and bred in sunny [Sardinia](https://en.wikipedia.org/wiki/Sardinia).
 I have a strong Sardinian accent regardless of the language I'm speaking.
 
 I make PlayStation games with [Evolution Studios](https://en.wikipedia.org/wiki/Evolution_Studios).
