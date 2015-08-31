@@ -57,12 +57,15 @@ body {
 }
 
 #pageindex {
+	margin: 0;
+	padding: 0.5em 0 0.5em 0;
+	font-size: 75%;
 	text-align: right;
 }
 
 #pageindex .links {
-	margin: 0 1em 0 1em;
-	padding: 0 1em 0 1em;
+	margin: 0;
+	padding-left: 1em;
 }
 
 #footer {
