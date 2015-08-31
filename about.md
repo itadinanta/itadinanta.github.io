@@ -2,7 +2,7 @@
 title: About me
 ---
 
-People around me call me Nico. Also known as Nico Orru, Mr Orru and even Ms Orru, which is wrong but I can understand why.
+People around me call me Nico. Also known as Nigu, Nico Orru, Mr Orru and even Ms Orru, which is wrong but I can understand why.
 My birth name is Nicola Orrù, with nothing in between and a decorated "u".
 
 I am British and Italian.
