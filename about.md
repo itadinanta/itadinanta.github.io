@@ -17,6 +17,8 @@ I used to work for [Studio Liverpool](https://en.wikipedia.org/wiki/Psygnosis).
 I have been [programming computers for a quarter of a century](/resources/curriculum_2015.pdf) 
 and still learning and enjoying it.
 
+The rest of my household is populated by lovely lady [programmers](http://blog.doppioslash.com) and fluffy kittens.
+
 I can be found on:
 
 * [Facebook](https://facebook.com/norru)
