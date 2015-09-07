@@ -16,7 +16,7 @@ At the time of writing (August 2015) there are two public projects under this um
 And for historical completeness:
 
 - [tunebait](http://github.com/itadinanta/tunebait): 2012, Android game prototype built on libGdx (Java)
-- [eurofattu](http://github.com/itadinanta/eurofattu): 2007? Invoicing webapp, generates printout via LaTeX (php) 
+- [eurofattu](http://github.com/itadinanta/eurofattu): 2002? Invoicing webapp, generates printout via LaTeX (php) 
 - [lightcms](http://github.com/itadinanta/lightcms): 2004? Self-contained multi-site static content manager (Java)
 - [onthefly](http://github.com/itadinanta/onthefly): 2003, OpenGL-based swarming A-life tech demo (C++)
 - [worm](http://github.com/itadinanta/worm): 2005?, non photorealistic rendering of dynamically defined objects (C++, shader asm)
