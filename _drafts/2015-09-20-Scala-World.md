@@ -325,3 +325,5 @@ Grabbed from GHC generics
 Making a Functor[Tree[A]] structure which can be mapped trhough to get a Functor[Tree[B]] - automatically
 
 Weird "magic" "continuation-style passing"
+
+
