@@ -67,6 +67,13 @@ body {
 	margin: 0;
 }
 
+#pagedate {
+	text-align: right;
+	font-decoration: italic;
+	padding: 0;
+	margin: 0;
+}
+
 #pageindex {
 	margin: 0;
 	padding: 0.5em 0 0.5em 0;
