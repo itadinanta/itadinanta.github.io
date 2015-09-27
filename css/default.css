@@ -19,6 +19,11 @@ body {
 	border-style: none;
 }
 
+#headerimg {
+	float: right;
+	height: 100%;
+}
+
 #header {
 	background: #8EB6B2 url("/img/bg_sharkfin.jpg") left repeat-x;
 	background-size: cover;
