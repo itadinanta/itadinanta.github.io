@@ -19,10 +19,9 @@ body {
 	border-style: none;
 }
 
-#headerlogo {
+#headerimg {
 	float: right;
-	height: 4em;
-	width: 4em;
+	height: 100%;
 }
 
 #header {
