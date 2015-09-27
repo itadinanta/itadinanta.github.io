@@ -10,7 +10,7 @@ Needless to say the startup never saw the light of day, and unfortunately I almo
 
 At the time of writing (August 2015) there are two public projects under this umbrella:
 
-- [rnkr](http://github.com/itadinanta/rnkr) (reads: ranker). A leaderboard service for videogames. If you think that simple sorted lists are a solved problem for the general case, think again. (Scala)
+- [rnkr](http://rnkr.itadinanta.net) (reads: ranker). A leaderboard service for videogames. If you think that simple sorted lists are a solved problem for the general case, think again. (Scala)
 - [spring-scala](http://github.com/itadinanta/spring-scala): a fork of the original [springsource project](http://github.com/spring-projects/spring-scala) to extend support to scala 2.11 (Scala)
 
 And for historical completeness:
