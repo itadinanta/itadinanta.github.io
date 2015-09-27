@@ -21,8 +21,8 @@ body {
 
 #headerlogo {
 	float: right;
-	height: 6em;
-	width: 6em;
+	height: 5em;
+	width: 5em;
 }
 
 #header {
@@ -45,8 +45,8 @@ body {
 }
 
 #content p img[alt=Logo] {
-	height: 10em;
-	width: 10em;
+	height: 12em;
+	width: 12em;
 }
 
 #content ul {
