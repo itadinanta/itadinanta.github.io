@@ -1,4 +1,5 @@
 [
 	{"name": "index", "label": "Home"},
+	{"name": "blog", "label": "Blog"},
 	{"name": "about", "label": "About me"}
 ]
