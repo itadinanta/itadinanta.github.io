@@ -1,5 +1,5 @@
 ---
-title: Blog - Rnkr 0.4.0 sneak peek
+title: Rnkr 0.4.0 sneak peek
 ---
 [Rnkr](http://rnkr.itadinanta.net/) 0.4.0 "sneak peek" has just been released!
 
