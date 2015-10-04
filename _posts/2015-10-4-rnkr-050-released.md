@@ -11,7 +11,7 @@ Not suitable for production yet, but can be easily downloaded and evaluated, fol
 
 You're all welcome to try, clone away and respond with suggestions or questions.
 
-### Changes since [0.4.0](/2015/9/27/rnkr-040-released)
+### Changes since [0.4.0](/2015/09/27/rnkr-040-released)
 
 - Upgrade to Akka 2.4.0
 - Added embedded Cassandra for testing/evaluation of persistent data
