@@ -93,9 +93,10 @@ blockquote {
 	border-style: none none none solid;
 	border-width: 1pt;
 	border-color: #A38B5C;
+	padding-left: 1em;
 }
 
-pre code {
+pre {
 	margin-left: 4em;
 }
 
