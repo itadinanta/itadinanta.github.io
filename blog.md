@@ -6,8 +6,6 @@ title: Blog
 {% for post in site.posts %}
 #### {{post.title}}
 
-##### {{post.date|date: '%B %d, %Y'}}
-
-{{post.excerpt}} ([Read more...]({{post.url}}))
+{{post.excerpt}} {{post.date|date: '%B %d, %Y'}} [Read more...]({{post.url}})
 
 {% endfor %}
