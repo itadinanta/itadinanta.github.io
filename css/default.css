@@ -87,6 +87,18 @@ body {
 	padding-left: 1em;
 }
 
+blockquote {
+	color: #A38B5C;
+	font-style: italic;
+	border-style: none none none solid;
+	border-width: 1pt;
+	border-color: #A38B5C;
+}
+
+pre code {
+	margin-left: 4em;
+}
+
 #footer {
 	padding: 1em 1em 1em 1em;
 	border-style: dotted solid solid solid;
