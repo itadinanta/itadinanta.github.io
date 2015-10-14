@@ -1,9 +1,7 @@
 ---
 title: Spring Scala for Scala 2.11.x new official releases
 ---
-Good news! Official development of spring-scala has resumed full steam thanks to [Paul Snively](mailto:psnively@mac.com)
-
-The official repository URL is http://hub.darcs.net/psnively/spring-scala
+Good news! Official development of spring-scala has resumed full steam thanks to [Paul Snively](mailto:psnively@mac.com). The official repository URL is [http://hub.darcs.net/psnively/spring-scala](http://hub.darcs.net/psnively/spring-scala)
 
 From the horse's mouth:
 
