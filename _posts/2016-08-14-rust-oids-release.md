@@ -12,9 +12,9 @@ Feedback welcome, feel free to [submit issues to the GitHub repo](https://github
 
 Some procedurally generated rust-oids:
 
-![screenshot](img/screenshot_003.png)
+![screenshot](https://github.com/itadinanta/rust-oids/raw/master/img/screenshot_003.png)
 
-![screenshot](img/screenshot_004.png)
+![screenshot](https://github.com/itadinanta/rust-oids/raw/master/img/screenshot_004.png)
 
 ## Prerequisite
 
