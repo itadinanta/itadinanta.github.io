@@ -8,15 +8,7 @@ Eventually I plan to plug in some sort of gameplay and release as a free game. S
 
 Feedback welcome, feel free to [submit issues to the GitHub repo](https://github.com/itadinanta/rust-oids/issues)
 
-## Screenshots
-
-Some procedurally generated rust-oids:
-
-![screenshot](https://github.com/itadinanta/rust-oids/raw/master/img/screenshot_003.png)
-
-![screenshot](https://github.com/itadinanta/rust-oids/raw/master/img/screenshot_004.png)
-
-## Prerequisite
+## Prerequisites
 
 I've only built on Ubuntu GNU/Linux but I've got reports of successful builds on Mac OS + Homebrew. Aside from the full Rust toolchain, the following packages are required:
 
