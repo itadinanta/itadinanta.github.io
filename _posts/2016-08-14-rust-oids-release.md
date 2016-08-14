@@ -2,7 +2,7 @@ I've just given a name to my Rust A-Life experiments and released them as a proj
 
 ## Rust-oids
 
-This project started as a test bed for https://github.com/gfx-rs/gfx and box2d wrapper https://github.com/Bastacyclop/rust_box2d. It gradually evolved to a sandbox emulator for little artificial things which were, possibly aptly, renamed "rust-oids". I'm now looking into breeding/genetic algorithms and possibly simple neural networks.
+This project started as a test bed for [gfx-rs](https://github.com/gfx-rs/gfx) and [rust_box2d wrapper](https://github.com/Bastacyclop/rust_box2d). It gradually evolved to a sandbox emulator for little artificial things which were, possibly aptly, renamed "rust-oids". I'm now looking into breeding/genetic algorithms and possibly simple neural networks.
 
 Eventually I plan to plug in some sort of gameplay and release as a free game. Strictly evening/weekend toy project: don't hold your breath.
 
