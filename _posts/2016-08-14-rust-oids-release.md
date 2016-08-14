@@ -1,6 +1,4 @@
-## Rust-oids project release
-
-I've just given a name to my Rust language experiments and released as a project at [Rust-oids](https://github.com/rust-oids)
+I've just given a name to my Rust A-Life experiments and released them as a project at [Rust-oids](https://github.com/rust-oids)
 
 ## Rust-oids
 
