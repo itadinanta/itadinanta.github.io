@@ -1,4 +1,4 @@
-I've just given a name to my Rust A-Life experiments and released them as a project at [Rust-oids](https://github.com/rust-oids)
+I've just given a name to my Rust A-Life experiments and released them as a project at [Rust-oids](https://github.com/itadinanta/rust-oids)
 
 ## Rust-oids
 
