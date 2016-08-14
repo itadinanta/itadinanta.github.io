@@ -2,12 +2,10 @@
 title: Blog
 ---
 
-### All blog posts
+### All posts
 {% for post in site.posts %}
-##### {{post.date|date: '%B %d, %Y'}}
+#### {{post.title}} - {{post.date|date: '%B %d, %Y'}}
 
-#### {{post.title}}
-
-{{post.excerpt}} [Read more...]({{post.url}})
+{{post.excerpt}} [+]({{post.url}})
 
 {% endfor %}
