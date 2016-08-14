@@ -10,9 +10,9 @@ Needless to say the startup never saw the light of day, and we almost (if not fo
 
 I've got a bunch of stuff under this umbrella:
 
+- [rust-oids](https://github.com/itadinanta/rust-oids): experimenting with the Rust programming language and A-life
 - [rnkr](http://rnkr.itadinanta.net) (reads: ranker). A leaderboard service for videogames. If you think that simple sorted lists are a solved problem for the general case, think again. (Scala)
 - [spring-scala](http://github.com/itadinanta/spring-scala): a fork of the original [springsource project](http://github.com/spring-projects/spring-scala) to extend support to scala 2.11 (Scala)
-- I'm also playing with [the Rust programming language](https://github.com/itadinanta/rust-evaluation)
 
 And for historical completeness:
 
