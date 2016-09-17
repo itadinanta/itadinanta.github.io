@@ -40,8 +40,8 @@ These are the little rustoid critters.
 
 I'm still trying to figure out what kind of gameplay can be built out of the emergent mechanics.
 
-## Build/run
+## Try it
 
-- ```git clone https://github.com/itadinanta/rust-oids.git && cd rust-oids```
-- ```cargo run --release``` to run starting with the default gene pool
-- ```cargo run --release -- <gene_pool_file.csv>``` to run starting with a snapshotted gene pool (DDDDMMYYY_hhmmss.csv).
+[Visit the GitHub project](https://github.com/itadinanta/rust-oids), or, if you're in a hurry:
+
+```git clone https://github.com/itadinanta/rust-oids.git && cd rust-oids && cargo run --release```
