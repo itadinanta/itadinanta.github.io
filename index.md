@@ -6,16 +6,18 @@ Itadinanta is a Sardinian slang word which can be roughly translated to "thingam
 
 Needless to say the startup never saw the light of day, and we almost (if not for Facebook) lost track of each other. Water under bridges and all, however, I became attached to the domain name and to the joke it sprouted from, and even more than fifteen years and a country later I still own the domain name (now it's "itadinanta.net", welcome globalization!) and still enjoy the name for my own, erm, what's that thing again?
 
-![Logo](/img/logo_itadinanta.svg) Jokes aside, nowadays "itadinanta" keeps the original meaning and becomes the moniker for an umbrella covering my personal tech ramblings, which may or may not include code which doesn't crash at startup and actually does something beneficial for the community at large. In 2016, it involves dabbling in Rust, A-life and procedurally generated content. I've also strong interests with regard to Scala and the JVM, Erlang, functional programming, distributed systems, herding cats (aka "distributed team operational management") and generally any technique which makes building large and reliable systems a sane endeavour.
+![Logo](/img/logo_itadinanta.svg) Jokes aside, nowadays "itadinanta" keeps the original meaning and becomes the moniker for an umbrella covering my personal tech ramblings, which may or may not include code which doesn't crash at startup and actually does something beneficial for the community at large. In 2018, it involves experimenting in Rust, A-life and procedurally generated content.
 
-I've got a bunch of stuff under this umbrella:
+I've also got strong interests with regard to Scala and the JVM, Erlang, functional programming, distributed systems, herding cats (aka "distributed team operational management") and generally any technique which makes building large and reliable systems a sane endeavour.
 
-- [rust-oids](https://github.com/itadinanta/rust-oids): experimenting with A-life in the Rust programming language 
-- [rnkr](http://rnkr.itadinanta.net) (reads: ranker). A leaderboard service for videogames. If you think that simple sorted lists are a solved problem for the general case, think again. (Scala)
+ I've got one active project under this umbrella:
+
+- [rust-oids](https://github.com/itadinanta/rust-oids): experimenting with A-life (Rust)
+
+and a bunch of inactive/historical projects:
+ 
+- [rnkr](http://rnkr.itadinanta.net) (reads: ranker). A leaderboard service for videogames (Scala)
 - [spring-scala](http://github.com/itadinanta/spring-scala): a fork of the original [springsource project](http://github.com/spring-projects/spring-scala) to extend support to scala 2.11 (Scala)
-
-And for historical completeness:
-
 - [tunebait](http://github.com/itadinanta/tunebait): 2012, Android game prototype built on libGdx (Java)
 - [eurofattu](http://github.com/itadinanta/eurofattu): 2002? Invoicing webapp, generates printout via LaTeX (php) 
 - [lightcms](http://github.com/itadinanta/lightcms): 2004? Self-contained multi-site static content manager (Java)
