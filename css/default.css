@@ -1,7 +1,7 @@
 body {
 	font-family: "Helvetica", "Monaco", "Verdana", "Arial", sans-serif;
 	color: black;
-	background: #E3ECEB;
+	background: #9AAAC0;
 	padding: 0pt;
 	margin: 0pt;
 }
@@ -26,13 +26,24 @@ body {
 }
 
 #header {
-	background: #8EB6B2 url("/img/bg_sharkfin.jpg") left repeat-x;
-	background-size: cover;
-	padding: 0.5em 1em 0.5em 1em;
+	background: #8EB6B2 url("/img/bg_clouds.jpg") left repeat-x;	
+	padding: 1.5em 1em 1.5em 1em;
 	margin: 0pt;
-	border-color: #0E655A;
+	border-color: #0C5C9C;
 	border-width: 1px;
 	border-style: none solid none solid;
+}
+
+a:link {
+	color: #397AB1;
+}
+
+a:visited {
+	color: #0C5C9C;
+}
+
+a:hover {
+	color: #8799B4;
 }
 
 #content p {
@@ -59,11 +70,11 @@ body {
 }
 
 #content {
-	background: #F8F4ED;
+	background: #EDF4FF;
 	margin: 0pt;
 	padding: 0 2em 2em 2em;
 	border-width: 1px;
-	border-color: #A38B5C;
+	border-color: #0C5C9C;
 	border-style: dotted solid none solid;
 }
 
@@ -97,7 +108,7 @@ blockquote {
 	font-style: italic;
 	border-style: none none none solid;
 	border-width: 1pt;
-	border-color: #A38B5C;
+	border-color: #0C5C9C;
 	padding-left: 1em;
 }
 
@@ -108,7 +119,7 @@ pre {
 #footer {
 	padding: 1em 1em 1em 1em;
 	border-style: dotted solid solid solid;
-	border-color: #A38B5C #A38B5C #A38B5C #A38B5C;
-	background: #F5EACB;
+	border-color: #0C5C9C #0C5C9C #0C5C9C #0C5C9C;
+	background: #C1D1EC;
 	border-width: 1px 1px 1px 1px;
 }
