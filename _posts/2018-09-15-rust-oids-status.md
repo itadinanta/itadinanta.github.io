@@ -29,7 +29,7 @@ Here are the highlights of what happened in no particular order:
 - added Debian `.deb` packaging
 - improved shaders to give a more "organic" look while keeping the spirit of the original "Tron" style
 - switched development from RustDT in Eclipse because it had been discontinued, to CLion (non-free) and the JetBrains Rust plugin
-- switched back from CLion to Eclipse as soon as the Corrosion plugin was even barely usable, as I couldn't get myself used to the CLion workflow
+- switched back from CLion to Eclipse as soon as the [Corrosion](https://github.com/eclipse/corrosion) plugin was even barely usable, as I couldn't get myself used to the CLion workflow
 - introduce [Clippy](https://github.com/rust-lang-nursery/rust-clippy) in my workflow, which made my Rust code bump up a couple of notches
 - many other little things, which you can look at in detail by having a look at the [repository history](https://github.com/itadinanta/rust-oids/commits/develop)
 - all while the Minion population was constantly evolving
