@@ -39,6 +39,11 @@ body {
 	text-indent: 2em;
 }
 
+#content p img.screenshot {
+	width: 800px;
+	float: none;
+} 
+
 #content p img {
 	float: right;
 	margin: 1em;
