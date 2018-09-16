@@ -4,7 +4,7 @@ title: Rust-oids update
 
 It's been a while since I last wrote about the [Rust-oids](https://github.com/itadinanta/rust-oids).
 
-Or, for what is worth, since I actually did anything on this blog.
+Or, for what it's worth, since I actually did anything on this blog.
 
 Anyway, if you just tuned in: Rust-oids is a simple artificial life playground, written in Rust, simulated by [rust_box2d wrapper](https://github.com/Bastacyclop/rust_box2d) physics and rendered via [gfx-rs](https://github.com/gfx-rs/gfx). The executable and package is very compact as all the "assets" (geometry, sound, graphics) are procedurally generated, mostly in real-time.
 
