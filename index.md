@@ -13,6 +13,7 @@ I've also got strong interests with regard to Scala and the JVM, Erlang, functio
  I've got one active project under this umbrella:
 
 - [rust-oids](https://github.com/itadinanta/rust-oids): experimenting with A-life (Rust)
+- [gfx-gtk](https://github.com/itadinanta/gfx-gtk): Simple bridge between gfx-rs and gtk-rs
 
 and a bunch of inactive/historical projects:
  
