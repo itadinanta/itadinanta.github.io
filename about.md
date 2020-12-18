@@ -12,7 +12,7 @@ I have a strong [Sardinian](https://en.wikipedia.org/wiki/Sardinian_language) ac
 
 I make PlayStation games and PlayStation VR experiences with [Sony Worldwide Studios](https://en.wikipedia.org/wiki/SCE_Worldwide_Studios). I used to work for [Evolution Studios](https://en.wikipedia.org/wiki/Evolution_Studios) and [Studio Liverpool](https://en.wikipedia.org/wiki/Psygnosis), before their premature demise.
 
-I have been [programming computers for a quarter of a century](/resources/curriculum_2018.pdf) and still learning and enjoying it.
+I have been [programming computers for decades](/resources/curriculum_2018.pdf) and still learning and enjoying it.
 
 The rest of my household is greatly improved by the presence of a lovely lady [programmer](http://www.doppioslash.com/) and a super-friendly fluffy kitten aptly named, after the Twilight Princess, Midna.
 
