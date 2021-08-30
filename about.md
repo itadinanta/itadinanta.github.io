@@ -10,7 +10,7 @@ I am British and Italian.
 I live in [Liverpool, England](https://en.wikipedia.org/wiki/Liverpool) but I was born and bred in sunny [Sardinia](https://en.wikipedia.org/wiki/Sardinia).
 I have a strong [Sardinian](https://en.wikipedia.org/wiki/Sardinian_language) accent regardless of the language I'm speaking.
 
-I make PlayStation games and PlayStation VR experiences with [Sony Worldwide Studios](https://en.wikipedia.org/wiki/SCE_Worldwide_Studios). I used to work for [Evolution Studios](https://en.wikipedia.org/wiki/Evolution_Studios) and [Studio Liverpool](https://en.wikipedia.org/wiki/Psygnosis), before their premature demise.
+I make PlayStation games and PlayStation VR experiences with [PlayStation Studios](https://en.wikipedia.org/wiki/SCE_Worldwide_Studios). I used to work for [Evolution Studios](https://en.wikipedia.org/wiki/Evolution_Studios) and [Studio Liverpool](https://en.wikipedia.org/wiki/Psygnosis), before their premature demise.
 
 I have been [programming computers for decades](/resources/curriculum_2018.pdf) and still learning and enjoying it.
 
