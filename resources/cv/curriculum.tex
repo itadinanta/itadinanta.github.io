@@ -6,7 +6,7 @@
 \documentclass[a4paper,10pt]{article}
 
 \usepackage[empty]{fullpage}
-\usepackage[margin=0.25in]{geometry}
+\usepackage[margin=0.5in]{geometry}
 \usepackage[default]{sourcesanspro}
 \usepackage{latexsym}
 \usepackage{titlesec}
@@ -35,21 +35,21 @@
 
 \raggedbottom
 \raggedright
-\setlength{\parindent}{0.25in}
+\setlength{\parindent}{0.2in}
 \setlength{\tabcolsep}{0in}
 \setlength{\footskip}{12pt}
 
 % Sections formatting
-\titleformat{\section}{\vspace{-8pt}\raggedright\Large}{}{0em}{\textbf}[\titlerule\vspace{1pt}\titlerule]
-\titleformat{\subsection}{\vspace{-4pt}\raggedright\large}{}{0em}{\textbf}[\vspace{-0.5em}]
+\titleformat{\section}{\vspace{-8pt}\raggedright\Large}{}{0em}{\textbf}[\titlerule\vspace{1pt}\titlerule\vspace{2pt}]
+\titleformat{\subsection}{\vspace{-6pt}\raggedright\large}{}{0em}{\textbf}[\vspace{-0.5em}]
 
+\setlist[itemize,1]{label=$\bullet$}
 
 \begin{document}
 
     \cvHeader{Nico Orr\`u}{Principal Programmer}
     {Liverpool, United Kingdom}{+44 (0)7769 891221}
-    {nigu.orru@gmail.com}
-    {http://itadinanta.net}
+    {nigu.orru@gmail.com}{http://itadinanta.net}
 
 
     \section{Overview}
@@ -60,7 +60,7 @@
 
         \subsection{Objectives}
             My main interests lie in engineering reliable, maintainable, scalable, distributed systems of
-            heterogeneous nature. \vspace{0.5em}
+            heterogeneous nature. \vspace{0.25em}
 
             My favourite domains include networked games and digital entertainment, in which I can play production
             and R\&D roles in technical areas, ranging from the likes of hands-on software engineer, programmer,
@@ -197,12 +197,12 @@
             }
 
         \subsection{Driving license}
-            UK full driving license.
+            UK full driving license
 
         \subsection{Extra-curricular interests}
             Videogames, technology, woodworking, international politics, photography, travelling, animation and anime
             , writing and poetry, piano and keyboards, western and eastern martial arts, baroque music, comics, books
-            and literature, trying new things.
+            and literature, trying new things
 
             \newpage
 
@@ -226,6 +226,7 @@
         }{
             \cvHistoryAchievement{Unreleased titles}{Unannounced co-op multiplayer modern fantasy combat game}
         }
+
         \cvHistoryYears{2017-2021}{
             \cvEmph{Principal Programmer at Sony Interactive Entertainment PlayStation Studios} (formerly Worldwide
             Studios) IVT - Immersive Video Technology (Liverpool, UK)
@@ -239,35 +240,168 @@
         }{
             \cvHistoryAchievement{Released titles}{Joshua Bell VR, Wipeout Omega Collection, Tom Grennan VR}
             \cvHistoryAchievement{Announced title}{Climate Station, an immersive climate-change explainer and data
-            visualisation app (research and prototypes)}
+            visualisation app (R\&D and prototypes)}
             \cvHistoryAchievement{Patent applications (as co-inventor)}{P115798US, P116259US, P116260US, P117350US,
                 P118094US}
         }
-        \cvHistoryYears{2016-2017}{}{}{}
-        \cvHistoryYears{2014-2016}{}{}{}
-        \cvHistoryYears{2012-2014}{}{}{}
-        \cvHistoryYears{2012}{}{}{}
-        \cvHistoryYears{2010-2012}{}{}{}
-        \cvHistoryYears{2004-2010}{}{}{}
-        \cvHistoryYears{2004}{}{}{}
-        \cvHistoryYears{2001-2003}{}{}{}
-        \cvHistoryYears{1998-2000}{}{}{}
-        \cvHistoryYears{1997}{}{}{}
-        \cvHistoryYears{1993-1996}{}{}{}
-        \cvHistoryYears{1992}{}{}{}
-        \cvHistoryYears{1990-1991}{}{}{}
 
-        \emph{References will be provided on demand}
+        \cvHistoryYears{2016-2017}{
+            \cvEmph{Principal programmer} at Sony Interactive Entertainment Worldwide Studios ITG - Immersive Technology
+            Group (Liverpool, UK)
+        }{
+            \cvItem{Maintenance and development of the Driveclub/Driveclub VR franchise servers}
+            \cvItem{Research on Social VR technology and applications}
+            \cvItem{Experimental hardware for VR applications}
+        }{
+            \cvHistoryAchievement{Released games}{DRIVECLUB VR}
+        }
+
+        \cvHistoryYears{2014-2016}{
+            \cvEmph{Online Server Lead} at Sony Computer Entertainment Europe Evolution Studios (Runcorn, UK),
+            terminated due to Evolution Studios closure
+        }{
+            \cvItem{Resolve structural issues which led to Evolution Game Server’s severe performance problems at
+            launch}
+            \cvItem{Plan, design and develop server strategy and platform}
+            \cvItem{Facilitate and organize co-development of online services with SCEE internal teams and Third
+            parties}
+            \cvItem{Bug fix, maintain and improve Driveclub/Driveclub PS+ edition servers}
+        }{
+            \cvHistoryAchievement{Released games}{DRIVECLUB Bikes,  DRIVECLUB PS+ Edition}
+        }
+
+        \cvHistoryYears{2012-2014}{
+            \cvEmph{Principal Online Server Programmer} at Sony Computer Entertainment Europe Evolution Studios (
+            Runcorn, UK)
+        }{
+            \cvItem{Develop components of the studio's custom game server platform, Evolution Game Server for Driveclub}
+        }{
+            \cvHistoryAchievement{Released games}{DRIVECLUB}
+        }
+
+        \cvHistoryYears{2012}{
+            \cvEmph{Lead Server Programmer} at Sony Computer Entertainment Europe Studio Liverpool (UK). Terminated
+            due to Liverpool Studio closure
+        }{
+            \cvItem{Responsibility for all strategy, design and R\&D of server/back-end technology}
+            \cvItem{Wipeout 2048 servers maintenance, troubleshooting}
+        }{}
+
+        \cvHistoryYears{2010-2012}{
+            \cvEmph{Senior Server Programmer} at Sony Computer Entertainment Europe OTG - Online Technology Group (
+            London, UK)
+        }{
+            \cvItem{Internal SONY studios expert advice as consultant}
+            \cvItem{Develop customized server-side solutions for internal studio projects}
+            \cvItem{Research and develop reusable components and services for integration within multiple game titles}
+            \cvItem{Facilitate technology and knowledge sharing}
+            \cvItem{Evaluate, adopt and integrate third party technologies}
+            \cvItem{Advocate adoption of industry best practices in an agile environment}
+            \cvItem{Support productionisation and post-launch stages of Online games}
+        }{
+            \cvHistoryAchievement{Released games}{Wipeout 2048 (Studio Liverpool), SmartAs,(XDEV/Climax)}
+        }
+
+        \cvHistoryYears{2004-2010}{
+            \cvEmph{Senior Programmer} at Sony Computer Entertainment Europe Studio Liverpool (UK) with a
+            specialization as a Server Programmer
+        }{
+            \cvItem{Evaluate, adopt and integrate third party technologies and technology prototypes}
+            \cvItem{Coordinate the SCEE Northwest Studio Server Group reporting to the SCEE Northwest Studio Group
+            Online Lead}
+            \cvItem{Mentor junior staff}
+            \cvItem{Act as the deputy Online Lead in the lead's absence}
+            \cvItem{Act as the point of contact between game teams and server deployment, game integration and
+            production} teams off-site
+            \cvItem{Offer consultancy and support on all aspects of online game development to internal and external}
+            development teams
+            \cvItem{Develop and dimension reliable and scalable systems for production-level game servers, from
+            design to}
+            production.
+            \cvItem{Develop client/server technology for PS3 and PSP games}
+            \cvItem{Develop game community websites for the SCEE Northwest Studio Group franchises (MotorStorm,
+                Wipeout) as the technology lead}
+        }{
+            \cvHistoryAchievement{Released titles}{MotorStorm Arctic Edge, Wipeout HD Fury DLC,  MotorStorm Pacific
+            Rift, vip.motorstorm.com. Wipeout HD, Wipeout Pulse, www.wipeout-game.com, Formula One 2006/Formula One
+            Championship Edition, Wipeout Pure, Formula 1 2005}
+        }
+
+        \cvHistoryYears{2004}{
+            \cvEmph{Lead developer} at OptiOne Srl (Villacidro, Italy)
+        }{
+            \cvItem{Main developer of OptiCAD, a CAD/CAM/optimisation software suite for specialized industrial glass
+            -cutting machines}
+        }{}
+
+        \cvHistoryYears{2001-2003}{
+            \cvEmph{Experienced analyst, developer, system and network manager} at Energit (Cagliari, Italy) during
+            start-up phase
+        }{
+            \cvItem{E-commerce, customer care, CRM}
+            \cvItem{Products and services R\&D}
+            \cvItem{Network/server administration, 24/7 1st and 2nd line emergency support, troubleshooting, TCP/IP
+            networking}
+            \cvItem{Web hosting, domain registration}
+        }{
+            \cvHistoryAchievement{Notable products}{Energit Areaserver – domain registration, virtual and dedicated
+            hosting, Energit Virtual Power Plant}
+        }
+
+        \cvHistoryYears{1998-2000}{
+            \cvEmph{Founder} at DOT Srl (Cagliari, Italy). Engineering, environmental and water resources,
+            graphics/CAD. \cvEmph{Lead developer} for GridProcessor; CAD/data operator and programmer on engineering
+            -related projects
+        }{
+            \cvItem{Network and system administration at customer’s sites}
+            \cvItem{Web programming and web design, local ISP services}
+            \cvItem{Engineering CAD applications, water resource management applications. Lead developer of the
+            “Backrain” (self-funded) software project to extract synthetic river networks from a digital elevation
+            model}
+            \cvItem{Computer science training classes to 6th and 7th grade students}
+        }{}
+
+        \cvHistoryYears{1997}{}{
+            \cvItem{Compulsory civilian service (in substitution of military service) at the Juvenile Prison of
+            Quartucciu (Italy), and at the Juvenile Justice Centre of Sardinia. Administrative assistant and office
+            automation specialist}
+            \cvItem{Developer of Profili Win, a CAD application tailored to aqueduct and water pipe projects design (
+                part-time)}
+            \cvItem{Database application for maintenance of aluminium production tools, for Alcoa (part-time)}
+        }{}
+
+        \cvHistoryYears{1993-1996}{
+            \cvEmph{Programmer} at “Ente Autonomo del Flumendosa” (water resources management, engineering, scientific,
+            physics), at the New Survey about the Surface Hydrology of Sardinia). Freelance web and database app
+            developer for small local businesses
+        }{}{}
+
+        \cvHistoryYears{1992}{
+            \cvEmph{High school diploma} – Industrial Technical Institute - Computer Science
+        }{}{}
+
+        \cvHistoryYears{1990-1991}{
+            \cvEmph{Freelance junior analyst programmer}, part-time. Developed bespoke MS-DOS database
+            application for the special delivery of clothes, developed bespoke MS-DOS CAD application for aluminium cut
+            optimization of window frame designs
+        }{}{}
+
+        \vspace{1em}\emph{References will be provided on demand}
 
 
     \section{Education}
-        \cvHistoryYears{2000}{\cvEmph{\textit{Diploma Universitario in Informatica}} from the University of Cagliari
-            (Italy), a three -years university-level degree in Computer Science with a final mark of \cvEmph{70/70
-            cum laude}.}{}{}
+        \cvHistoryYears{2000}{
+            \cvEmph{\textit{Diploma Universitario in Informatica}} from the University of
+            Cagliari (Italy), a three -years university-level degree in Computer Science with a final mark of \cvEmph{70
+            /70 cum laude}
+        }{}{}
 
-        \cvHistoryYears{1992}{\cvEmph{\textit{Diploma di Maturit\`a Tecnica Industriale specializzazione
-        Informatica}} obtained from \textit{Istituto Tecnico Industriale “Dionigi Scano”} (five years technical high
-        school, specialisation in Computer Science, Italy) with a mark of \cvEmph{60/60} in the final exam}{}{}
+        \cvHistoryYears{1992}{
+            \cvEmph{\textit{Diploma di Maturit\`a Tecnica Industriale specializzazione
+            Informatica}} obtained from \textit{Istituto Tecnico Industriale “Dionigi Scano”} (five years technical high
+            school, specialisation in Computer Science, Italy) with a mark of \cvEmph{60/60} in the final exam
+        }{}{}
 
+        \vspace*{\fill}\cvDate{Last update:}
 
 \end{document}
