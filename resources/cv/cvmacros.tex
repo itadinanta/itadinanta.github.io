@@ -1,0 +1,42 @@
+\newcommand{\cvHeader}[6]{
+    \begin{flushleft}
+        \textbf{\LARGE #1 -- #2} \\
+        \raggedleft
+        \textit{#3} -- \textit{#4} \\
+        \href{mailto:#5}{{\textit{#5}}} -- \href{#6}{{\textit{#6}}}
+        \vspace{-8pt}
+    \end{flushleft}
+    \fancyfoot[R]{#1 -- #2, page \thepage{} of \pageref{LastPage}}
+}
+
+\newcommand{\cvItemList}[1]{
+    \begin{itemize}
+        \setlength\itemsep{-0.5em}
+        {#1}
+    \end{itemize}\vspace{-8pt}
+}
+
+\newcommand{\cvPublishedTitles}[1]{
+    \cvItemList{
+        #1
+    }
+}
+
+\newcommand{\cvItem}[1]{\item{#1}}
+\newcommand{\cvHistoryItem}[1]{\cvItem{#1}}
+
+\newcommand{\cvPublishedTitle}[3]{
+    \item \textbf{#1} -- #2 -- #3
+}
+
+\newcommand{\cvEmph}[1]{\textbf{#1}}
+
+\newcommand{\cvHistoryYears}[4]{
+    \subsection{#1}
+    #2
+    \ifstrempty{#3}{}{\cvItemList{#3}\par\vspace{0.5em}}
+    \ifstrempty{#4}{}{#4}
+}
+
+\newcommand{\cvHistoryAchievement}[2]{\cvEmph{#1:} #2 \\}
+

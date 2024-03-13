@@ -1,0 +1,273 @@
+% Resume in Latex
+% Author : Nico Orru, inspired by work of Shubham Mazumder
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+
+\documentclass[a4paper,10pt]{article}
+
+\usepackage[empty]{fullpage}
+\usepackage[margin=0.25in]{geometry}
+\usepackage[default]{sourcesanspro}
+\usepackage{latexsym}
+\usepackage{titlesec}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{lastpage}
+\usepackage{indentfirst}
+\usepackage{etoolbox}
+
+\input{cvmacros}
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+% Page layout
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\parindent}{0.25in}
+\setlength{\tabcolsep}{0in}
+\setlength{\footskip}{12pt}
+
+% Sections formatting
+\titleformat{\section}{\vspace{-8pt}\raggedright\Large}{}{0em}{\textbf}[\titlerule\vspace{1pt}\titlerule]
+\titleformat{\subsection}{\vspace{-4pt}\raggedright\large}{}{0em}{\textbf}[\vspace{-0.5em}]
+
+
+\begin{document}
+
+    \cvHeader{Nico Orr\`u}{Principal Programmer}
+    {Liverpool, United Kingdom}{+44 (0)7769 891221}
+    {nigu.orru@gmail.com}
+    {http://itadinanta.net}
+
+
+    \section{Overview}
+
+        \subsection{Profile}
+            Versatile, resourceful, polyglot, veteran developer/engineer/programmer experienced in networked console
+            games and immersive applications, as individual contributor and team and tech lead.
+
+        \subsection{Objectives}
+            My main interests lie in engineering reliable, maintainable, scalable, distributed systems of
+            heterogeneous nature. \vspace{0.5em}
+
+            My favourite domains include networked games and digital entertainment, in which I can play production
+            and R\&D roles in technical areas, ranging from the likes of hands-on software engineer, programmer,
+            problem solver, up to architect, tech, project and team lead, as required by the project at hand.
+
+
+    \section{Published Titles}
+
+        \cvPublishedTitles{
+            \cvPublishedTitle{Tom Grennan VR}{PSVR}{compositing tools and technology (VFX)}
+            \cvPublishedTitle{Wipeout Omega Collection}{PS4}{online consultant}
+            \cvPublishedTitle{Joshua Bell VR}{PSVR}{additional audio support}
+            \cvPublishedTitle{DRIVECLUB VR}{PSVR launch title}{principal programmer}{acting producer}
+            \cvPublishedTitle{DRIVECLUB Bikes}{PS4/PSN}{server lead}
+            \cvPublishedTitle{DRIVECLUB PS+ Edition}{PS4/PSN}{server lead}
+            \cvPublishedTitle{DRIVECLUB}{PS4}{server programming, webservice client}
+            \cvPublishedTitle{SmartAs}{PSVITA}{leaderboards, server infrastructure, webservice client}
+            \cvPublishedTitle{Wipeout 2048}{PSVITA “launch” title}{leaderboards, server programming, server
+            maintenance, webservice client}
+            \cvPublishedTitle{MotorStorm Apocalypse}{PS3}{client/server additional programming, networking}
+            \cvPublishedTitle{MotorStorm Arctic Edge}{PSP}{server lead}
+            \cvPublishedTitle{Wipeout HD Fury DLC}{PS3/PSN}{game lobby, leaderboards}
+            \cvPublishedTitle{MotorStorm Pacific Rift}{PS3}{additional server programming}
+            \cvPublishedTitle{vip.motorstorm.com}{official MotorStorm community portal}{project technical lead}
+            \cvPublishedTitle{Wipeout HD}{PS3/PSN}{game lobby, web community, leaderboards}
+            \cvPublishedTitle{Wipeout Pulse}{PSP}{game lobby}{in-game community, web community (www.wipeout-game
+            .com)}
+            \cvPublishedTitle{Formula One Championship Edition}{PS3 launch title}{lobby and front-end, community,
+                leaderboards, build tools}
+            \cvPublishedTitle{F1 06}{PS2/PSP}{internal build tools, unreleased online services}
+            \cvPublishedTitle{Wipeout Pure}{PSP launch title}{plug-ins, DLC infrastructure, DLC playstation.com
+            integration}
+            \cvPublishedTitle{Formula 1 2005}{PS2}{online testing tools}
+        }
+
+
+    \section{Knowledge}
+
+        \subsection{Programming and scripting languages}
+            \cvItemList{
+                \cvItem{\cvEmph{Recently:} \cvEmph{C++, Go}, Bash, PowerShell, Python, C\#, Lua, Rust}
+
+                \cvItem{\cvEmph{Historically:} Elm, F\#, Ruby, Erlang, C, JavaScript, Scala, Java, SQL, Julia,
+                    GLSL, ShaderLab, Pascal/Turbo Pascal/Delphi, Assembly (80x86, Z80, 6510, PowerPC), PHP, Perl,
+                    BASIC/Visual BASIC/VBA dialects, MATLAB, Emacs LISP, FORTRAN, XSLT, various DSLs}
+            }
+
+        \subsection{Platforms and targets}
+            \cvItemList{
+                \cvItem{\cvEmph{Recently:} \cvEmph{PlayStation platforms} (PS5, PS4, PSVR, PSVITA, PS3, PSP, PS2),
+                    \cvEmph{MS Windows}, \cvEmph{Linux} (Ubuntu/Debian/Devuan, CentOS/RedHat/FC, Amazon Linux, other)}
+
+                \cvItem{\cvEmph{Historically:} \cvEmph{Unix} (Sony/News OS, Solaris, SysV, HP-UX, AIX), Arduino, Apple
+                macOS, Android, Other embedded systems (Nortel, Cisco)}
+            }
+
+        \subsection{Tools and methodologies}
+            \cvItemList{
+                \cvItem{\cvEmph{Git}, \cvEmph{Perforce}, Subversion, CVS, AccuRev, AlienBrain, Mercurial}
+                \cvItem{Cross-platform and embedded development (PC/Console/Mobile/MCU, Linux/Windows)}
+                \cvItem{\cvEmph{Proprietary engines}, \cvEmph{Unity}, \cvEmph{Unreal Engine}, ECS model}
+                \cvItem{\cvEmph{Amazon AWS}, EC2, VPC, EKS/Kubernetes, Docker, OpenStack/Eucalyptus, Google AppEngine}
+                \cvItem{SONY proprietary networking technology: \cvEmph{PSN}, PSS Game Analytics, OTG Turbine,
+                    sceRudp (legacy: SCE-RT, Medius, DME, SVO, DTE, ActiveCommunity, OTG-S/C3, OTG Telemetry),
+                    replication model, rollback model}
+                \cvItem{\cvEmph{TCP/IP}, \cvEmph{HTTP}, \cvEmph{UDP}, Berkeley sockets, TLS, \cvEmph{rUDP}, other
+                internet protocols}
+                \cvItem{\cvEmph{OOP/OOD}, FP, Actor model, Guava, Akka, OTP}
+                \cvItem{\cvEmph{Agile} (SCRUM, Kanban and Lean variants), \cvEmph{TDD}, BDD}
+                \cvItem{\cvEmph{CI} with Jenkins/Hudson, Travis CI, Sbt, Ant, Maven, Nexus, Bintray, Ivy,
+                    CruiseControl, SCEE BuildServer, SIE Imogen. Exposure to Argo CI}
+                \cvItem{\cvEmph{JetBrains IDEs} (Rider, CLion, PyCharm, RustRover etc…), \cvEmph{Visual Studio},
+                    ReSharper, Visual Assist, \cvEmph{Eclipse} JDT, Scala IDE, CDT, RustDT, Corrosion, ErlIDE, Emacs,
+                    Visual Studio Code, NetBeans IDE, Xcode, MonoDevelop, Delphi/Borland RAD tools, Unix build tools,
+                    Cmake, premake, Android ADK}
+                \cvItem{\cvEmph{IaC}, Chef, Ansible, automated provisioning and configuration. Exposure to Terraform,
+                    CloudFormation, CDK, Helm}
+                \cvItem{VirtualBox, Vagrant, VMWare, FreeVSD, WSL}
+                \cvItem{Apache Cassandra, CouchDB, SimpleDB, NoSQL – exposure to DynamoDB, ElasticSearch, Redis}
+                \cvItem{Tomcat, Jetty, Netty, JBoss AS, Jetspeed2, Spray, Magnolia CRM, Google Protocol Buffers,
+                    Thrift, JMX, SNMP, GridGain, JGroups}
+                \cvItem{Apache2, Haproxy, Postfix, Sendmail, Qmail, freeRadius, iptables, BIND, other}
+                \cvItem{RabbitMQ/AMQP, JMS}
+                \cvItem{Postgresql, MySQL, Oracle, Sqlite, OR mapping tools (Hibernate, iBatis, EJB, JDO)}
+                \cvItem{Automated test tools (SIE DTE, other proprietary technology)}
+                \cvItem{Nuke (VFX and film editing software)}
+                \cvItem{Jira, Confluence, Miro, GitHub, Helix Swarm, MS Office, Outlook, Teams, Google Docs}
+                \cvItem{Cross-team on-site/off-site coordinated development and deployment across multiple timezones}
+            }
+
+        \subsection{Other interests and experience}
+            \cvItemList{
+                \cvItem{Team interactions and leadership, methodologies and processes, industrial automation}
+                \cvItem{Computer graphics}
+                \cvItem{Audio and DSP}
+                \cvItem{Mixed Windows-Linux/UNIX IP-based networks}
+                \cvItem{Civil engineering/CAD environment and water resources}
+            }
+
+
+    \section{Personal}
+
+        \subsection{Qualities and traits}
+            \cvItemList{
+                \cvItem{Open-minded, versatile and fast at learning}
+                \cvItem{Resourceful and tenacious problem solver}
+                \cvItem{Extremely goal and outcome oriented}
+                \cvItem{Open and honest communicator}
+                \cvItem{Enthusiastic yet able to manage risk in challenging projects}
+                \cvItem{Creative and willing to share ideas and solutions}
+            }
+
+        \subsection{Nationality}
+            Dual national British and Italian. Born in Cagliari (Sardinia, Italy), naturalised British in 2013.
+
+        \subsection{Languages}
+            \cvItemList{
+                \cvItem{Italian and English: fluent}
+                \cvItem{Spanish: basic}
+                \cvItem{Japanese: rudimentary}
+            }
+
+        \subsection{Availability}
+            At risk of redundancy since PlayStation London Studio is classified as “at risk of closure”; under
+            consultation until 31/05/2024. Projected earliest start: June 2024.
+
+        \subsection{Relocation/Commuting}
+            \cvItemList{
+                \cvItem{Working from home in Liverpool, full remote, connected to the SIE London Studio office via
+                Cisco Meraki hardware VPN.}
+
+                \cvItem{Prioritising roles offering in-office or hybrid model (3-4 days a week) in Liverpool central
+                but will consider full remote roles in UK and EU.}
+            }
+
+        \subsection{Driving license}
+            UK full driving license.
+
+        \subsection{Extra-curricular interests}
+            Videogames, technology, woodworking, international politics, photography, travelling, animation and anime
+            , writing and poetry, piano and keyboards, western and eastern martial arts, baroque music, comics, books
+            and literature, trying new things.
+
+            \newpage
+
+
+    \section{History}
+        \cvHistoryYears{2021-2024}{
+            \cvEmph{Principal Network Programmer} at Sony Interactive Entertainment PlayStation London Studio (remote
+            ) – at risk of closure
+        }{
+            \cvHistoryItem{Server architecture and microservices development (Go) on AWS EKS – following CNCF principles
+            and guidelines}
+            \cvHistoryItem{Client netcode to support rollback-based P2P cross-platform (PC/PS5) communcation}
+            \cvHistoryItem{SIE proprietary relay server maintenance, cross-compilation and deployment (EKS, Agones),
+                latency optimisation}
+            \cvHistoryItem{Evaluation and integration of SIE and third party libraries and frameworks into in-house
+            engine (PlayFab, etc.)}
+            \cvHistoryItem{Engine runtime maintenance, bug fixing, utility and test features (logging, configuration,
+                TSan, ASan, Test Coverage, Static Analysis)}
+            \cvHistoryItem{Headless lightweight game runtime and scripted input emulation for unattended, automated,
+                test bots}
+        }{
+            \cvHistoryAchievement{Unreleased titles}{Unannounced co-op multiplayer modern fantasy combat game}
+        }
+        \cvHistoryYears{2017-2021}{
+            \cvEmph{Principal Programmer at Sony Interactive Entertainment PlayStation Studios} (formerly Worldwide
+            Studios) IVT - Immersive Video Technology (Liverpool, UK)
+        }{
+            \cvHistoryItem{Stereoscopic and pseudo-volumetric video and still capture (custom camera sets) and replay of
+            live subjects on PSVR}
+            \cvHistoryItem{VFX image processing and video compositing tools for PSVR real-time live action media}
+            \cvHistoryItem{Scientific data processing and visualisation in VR (R\&D)}
+            \cvHistoryItem{Legacy Driveclub game servers maintenance and operations, online consulting to internal
+            teams}
+        }{
+            \cvHistoryAchievement{Released titles}{Joshua Bell VR, Wipeout Omega Collection, Tom Grennan VR}
+            \cvHistoryAchievement{Announced title}{Climate Station, an immersive climate-change explainer and data
+            visualisation app (research and prototypes)}
+            \cvHistoryAchievement{Patent applications (as co-inventor)}{P115798US, P116259US, P116260US, P117350US,
+                P118094US}
+        }
+        \cvHistoryYears{2016-2017}{}{}{}
+        \cvHistoryYears{2014-2016}{}{}{}
+        \cvHistoryYears{2012-2014}{}{}{}
+        \cvHistoryYears{2012}{}{}{}
+        \cvHistoryYears{2010-2012}{}{}{}
+        \cvHistoryYears{2004-2010}{}{}{}
+        \cvHistoryYears{2004}{}{}{}
+        \cvHistoryYears{2001-2003}{}{}{}
+        \cvHistoryYears{1998-2000}{}{}{}
+        \cvHistoryYears{1997}{}{}{}
+        \cvHistoryYears{1993-1996}{}{}{}
+        \cvHistoryYears{1992}{}{}{}
+        \cvHistoryYears{1990-1991}{}{}{}
+
+        \emph{References will be provided on demand}
+
+
+    \section{Education}
+        \cvHistoryYears{2000}{\cvEmph{\textit{Diploma Universitario in Informatica}} from the University of Cagliari
+            (Italy), a three -years university-level degree in Computer Science with a final mark of \cvEmph{70/70
+            cum laude}.}{}{}
+
+        \cvHistoryYears{1992}{\cvEmph{\textit{Diploma di Maturit\`a Tecnica Industriale specializzazione
+        Informatica}} obtained from \textit{Istituto Tecnico Industriale “Dionigi Scano”} (five years technical high
+        school, specialisation in Computer Science, Italy) with a mark of \cvEmph{60/60} in the final exam}{}{}
+
+
+\end{document}
