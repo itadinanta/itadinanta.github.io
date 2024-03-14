@@ -1,4 +1,4 @@
-COMMENT ?= "Update CV"
+COMMENT ?= Update\ CV
 
 .PHONY: cv
 cv: nico_orru_cv.pdf
