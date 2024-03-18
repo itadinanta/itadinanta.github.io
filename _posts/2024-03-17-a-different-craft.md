@@ -19,7 +19,7 @@ joists. This turned out perfect for the CNC machine and its accessories.
 Once I had the CNC machine up and running - which took quite a while to design and put together - I was able to
 precisely cut 18mm thick redwood pine timber with relative ease, and started making small furniture and kitchen
 accessories with it. CNC allowed for freedom in shape design but was limited in cut size since the working area of that
-machine is about 50x50cm. This was even close for my growing home improvement requirements.
+machine is about 50x50cm. This was not even close to large enough for my growing home improvement requirements.
 
 Since expanding the CNC machine was not an option, I had to up my handiwork skills and my toolset. A few realisations,
 good and bad, shortly appeared:
