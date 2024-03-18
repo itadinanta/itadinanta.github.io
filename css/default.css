@@ -55,6 +55,11 @@ a:hover {
 	float: none;
 } 
 
+#content div.gallery ul li ul li {
+    display: inline;
+    vertical-align: middle;
+}
+
 #content p img {
 	float: right;
 	margin: 1em;
@@ -65,8 +70,12 @@ a:hover {
 	width: 12em;
 }
 
-#content ul {
+#content ul, #content ol {
 	margin-left: 2em;
+}
+
+#content ol {
+    text-indent: 0;
 }
 
 #content {
