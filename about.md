@@ -18,11 +18,17 @@ The rest of my household is greatly improved by the presence of a lovely lady [p
 
 I can be found on:
 
-* [Instagram/Threads](https://www.instagram.com/itadinanta)
+* [BlueSky](https://bsky.app/profile/itadinanta.bsky.social)
 * [Mastodon/Fediverse](https://mastodon.social/@Nigu)
 * [GitHub](https://github.com/norru/)
 * [LinkedIn](https://uk.linkedin.com/in/norru)
 * [500px](https://500px.com/nicoorr)
 * [PSN](http://eu.playstation.com/psn/profile/Nigu/)
+* other more obscure paths.
 
-and probably a dozen or so of other less beaten paths.
+
+For reasons I don't feel compelled to disclose, I'm no longer active on:
+* Twitter
+* Facebook
+* Instagram
+* Threads
