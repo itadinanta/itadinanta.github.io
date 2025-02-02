@@ -2,11 +2,10 @@
 title: Old Facebook poems and JSON decoding
 ---
 
-I have recently disabled my Facebook account. As a pre-requisite step, I exported all my activity data to keep as backup.
-
-In all the dirt I found again some gold nuggets I almost forgot about. Namely, a bunch of old poems of dubious literary
-quality but certain nostalgia value, which I wrote in my youth and in my older ages around 15 years ago, and published
-as Facebook notes for my friends to read.
+I have recently disabled my Facebook account. As a pre-requisite step, I exported all my activity data to keep as
+backup. Hidden in the dirt, I found again some gold nuggets I almost forgot about. Namely, a bunch of old poems of
+dubious literary quality but certain nostalgia value, which I wrote in my youth and in my older ages around 15 years
+ago, and published as Facebook notes for my friends to read.
 
 Incidentally, poem mining triggered an interesting little project. As it happens, Facebook JSON export data is encoded
 in a weird way. Strings literals appear to be encoded in a byzantine mix of ASCII and UTF-8.
