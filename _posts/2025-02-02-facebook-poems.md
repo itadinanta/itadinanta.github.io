@@ -20,7 +20,7 @@ So for a character whose UTF-8 encoding is, say two byte `0xC2 0xa9` (&copy;), t
 I was hoping for a one-liner to fix this, but I ended up writing some Rust code to extract the poems from that JSON blob
 into plain text. You may get better mileage, but less fun, by playing with encoding in Python.
 
-[Here is the quick-and-dirty source code](https://github.com/itadinanta/facebook-archive-reader), should you encounter a similar problem:
+[Here is the quick-and-dirty source code](https://github.com/itadinanta/facebook-archive-reader), should you encounter a similar problem.
 
 And, as a teaser, one of the poems from 2010 which I forgot I had written. In Italian. Expect more.
 
