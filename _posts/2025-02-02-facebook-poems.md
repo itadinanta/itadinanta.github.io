@@ -11,8 +11,8 @@ Incidentally, poem mining triggered an interesting little project. As it happens
 in a weird way. Strings literals appear to be encoded in a byzantine mix of ASCII and UTF-8.
 
 In detail: ASCII characters and symbols are encoded as they are. 1 byte = 1 character. So you have the traditional `\n`,
-`\r` etc. escape malarkey). "Extended" characters are escaped as their UTF-8 encoding, as bytes, in which each encoded
-byte is itself encoded as a separate "unicode" codepoint.
+`\r` etc. escape malarkey. "Extended" characters are escaped as their UTF-8 encoding, as bytes, in which each encoded
+byte is itself encoded as a separate "Unicode" codepoint.
 
 So for a character whose UTF-8 encoding is, say two byte `0xC2 0xa9` (&copy;), the Facebook encoding would be
 `\u00c2\u00a9` instead of the expected `\u00a9`.
