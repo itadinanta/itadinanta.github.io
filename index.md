@@ -10,7 +10,7 @@ Needless to say the startup never saw the light of day, and we almost (if not fo
 
 I've also got strong interests with regard to Scala and the JVM, Erlang, functional programming, distributed systems, herding cats (aka "distributed team operational management") and generally any technique which makes building large and reliable systems a sane endeavour.
 
- I've got a few active projects under this umbrella:
+ I've got a few "active" projects under this umbrella:
 
 - [rust-oids](https://github.com/itadinanta/rust-oids): experimenting with A-life (Rust)
 - [gfx-gtk](https://github.com/itadinanta/gfx-gtk): Simple bridge between gfx-rs and gtk-rs
