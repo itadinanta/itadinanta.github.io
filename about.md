@@ -14,7 +14,7 @@ I make PlayStation games with [Guerrilla](https://www.guerrilla-games.com/), fro
 
 I have been [programming computers for decades](/resources/cv/nico_orru_cv.pdf) and still learning and enjoying it.
 
-The rest of my household is greatly improved by the presence of a lovely lady [programmer](http://www.doppioslash.com/) and a super-friendly fluffy kitten aptly named, after the Twilight Princess, Midna.
+The rest of my household is greatly improved by the presence of a lovely lady [programmer](http://www.doppioslash.com/).
 
 I can be found on:
 
